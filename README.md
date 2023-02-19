@@ -1,15 +1,15 @@
 <body>
   <center>
-<h1 align="center">~ 💖 Welcome I'M Putra💖 ~</h1>
+<h1 align="center">~ 💖 Welcome I'M IlhamModsTzy Dev💖 ~</h1>
 <br>
 <div align="center">
   </a>
     <br>
-  <p>PUTRAMODZ</p>
+  <p>IlhamModsTzy</p>
   <p>hidup itu sementara kawan</p>
   <p>Apa Yang Perlu Kamu sombongkan?</p>
 <p>Alwys Bersyukur yaa ><</p>
-<p><a href="https://youtube.com/@Putra_Modz_">- subscribe ya</a><p>
+<p><a href="https://youtube.com/@syahmozzofficialid8977">- subscribe ya</a><p>
   
 </div>
     <div align="center">
@@ -21,7 +21,7 @@
 <img src="https://64.media.tumblr.com/e1f1c97123ae217eb731500e502e0083/tumblr_n9dxcikmIU1qc9zfzo7_r1_250.gif" align="right">
   </div>
 <li>
- <b>Name:</b> Putra</li>
+ <b>Name:</b> Muhammad Ilham Nurmansyah</li>
 <li>
 <b>Umur:</b> 18 YearsOld
 </li>
@@ -35,7 +35,7 @@
 <b>Id Server</b> 72.838.42
 </li>
 <li>
-<b>Hobby:</b> Mangan,turu,Ngoding,Pacar amellll 
+<b>Hobby:</b> Mangan,turu,Ngoding,bermain gitar, Pacar rahasia:v
 </li>
 <li>
 <b>Working @:</b> Pt Sejahtra PDI :V
