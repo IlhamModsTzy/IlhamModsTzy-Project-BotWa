@@ -38,7 +38,7 @@
 <b>Hobby:</b> Mangan,turu,Ngoding,bermain gitar, Pacar rahasia:v
 </li>
 <li>
-<b>Working @:</b> Pt Sejahtra PDI :V
+<b>Working @:</b> Pt Badog Jaya:V
 </li>
 <br><br><br>
 </div>
